@@ -1,0 +1,11 @@
+[
+    { "_id": "A101", "title": "Propulsion Assignment", "description": "Description of Propulsion Assignment", "course": "65510e70870c092d5441bc94", "availableFromDate": "2023-01-10", "availableUntilDate":"2023-02-18", "dueDate": "2023-05-15" },
+    { "_id": "A102", "title": "Combustion Analysis", "description": "Description of Combustion Analysis", "course": "65510e70870c092d5441bc94", "availableFromDate": "2023-01-10", "availableUntilDate":"2023-02-18", "dueDate": "2023-05-15" },
+    { "_id": "A103", "title": "Nozzle Design Project", "description": "Description of Nozzle Design Project", "course": "65510e70870c092d5441bc94", "availableFromDate": "2023-01-10", "availableUntilDate":"2023-02-18", "dueDate": "2023-05-15" },
+    { "_id": "A201", "title": "Aerodynamics Quiz", "description": "Description of Aerodynamics Quiz", "course": "65510e70870c092d5441bc95", "availableFromDate": "2023-01-10", "availableUntilDate":"2023-02-18", "dueDate": "2023-05-15" },
+    { "_id": "A202", "title": "Flow Analysis", "description": "Description of Flow Analysis", "course": "65510e70870c092d5441bc95", "availableFromDate": "2023-01-10", "availableUntilDate":"2023-02-18", "dueDate": "2023-05-15" },
+    { "_id": "A203", "title": "Heating Analysis", "description": "Description of Heating Analysis", "course": "65510e70870c092d5441bc95", "availableFromDate": "2023-01-10", "availableUntilDate":"2023-02-18", "dueDate": "2023-05-15" },
+    { "_id": "A301", "title": "Structural Design Task", "description": "Description of Structural Design Task", "course": "65510e70870c092d5441bc96", "availableFromDate": "2023-01-10", "availableUntilDate":"2023-02-18", "dueDate": "2023-05-15" },
+    { "_id": "A302", "title": "Orbital Calculations", "description": "Description of Orbital Calculations", "course": "65510e70870c092d5441bc96", "availableFromDate": "2023-01-10", "availableUntilDate":"2023-02-18", "dueDate": "2023-05-15" },
+    { "_id": "A303", "title": "Systems Engineering Exam", "description": "Description of Systems Engineering Exam", "course": "65510e70870c092d5441bc96", "availableFromDate": "2023-01-10", "availableUntilDate":"2023-02-18", "dueDate": "2023-05-15" }
+  ]
